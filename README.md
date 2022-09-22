@@ -1,23 +1,23 @@
-<h1 align="center"> ⚜ 𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮 ⚜<br></h1>
+<h1 align="center"> 🗡️𝐇𝐈𝐑𝐔𝐔-𝐐𝐔𝐄𝐄𝐍🗡️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/x1SLFB2/Pics-Art-09-09-06-29-33.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://telegra.ph/file/a9094b0c5a1e6584f864a.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nipunarangana/Blue-Lione-Bot?v=1)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git/blob/master/settings.js#L67)
 
 
  
@@ -41,7 +41,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Nipuna-apps/Blue-Lione-Bot.git
+git clone https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -56,7 +56,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
+git clone https://github.com/Hiruu-Queen/Dark-Sihilel-MD
 cd NeroBot-MD
 npm start
 ```
@@ -68,7 +68,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Nipuna-apps/Blue-Lione-Bot
+git clone https://github.com/Hiruu-Queen/Dark-Sihilel-MD
 cd DarkNero-MD2
 npm start
 ```
