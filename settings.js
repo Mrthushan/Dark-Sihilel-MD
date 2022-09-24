@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '📸'
-global.REACT_NUMBER = '94704101989'
+global.OWNER_REACT = '💖'
+global.REACT_NUMBER = '94771018371'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,16 +34,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94704101989'] //ur owner number
-global.ownername = "༺S_I_H_I_L_E_L༻ " //ur owner name
+global.vcardowner = ['94771018371'] //ur owner number
+global.ownername = "༺T_H_U_S_H_A_N༻ " //ur owner name
 global.ytname = "YT: Haven't Channel" //ur yt chanel name
 global.socialm = "GitHub: HIRUU-QUEEN" //ur github or insta name
 global.location = "Sri Lanka, Matara, Deiyandara." //ur location
 
 //bot bomdy 
-global.owner = ['704101989']
-global.ownertag = '704101989' //ur tag number
-global.botname = '🔥༺𝐇𝐈𝐑𝐔𝐔☬𝐐𝐔𝐄𝐄𝐍༻🔥' //ur bot name
+global.owner = ['771018371']
+global.ownertag = '771018371' //ur tag number
+global.botname = '🔥༺𝐓.𝐒♡𝐓𝐇𝐔𝐒𝐇𝐀𝐍♡♡༻🔥' //ur bot name
 global.linkz = "https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git" //ur website to be displayed
 global.botscript = 'https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git' //script link
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/Sihilel.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/Sihilel.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['704101989'] //ur premium numbers
+global.premium = ['771018371'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
