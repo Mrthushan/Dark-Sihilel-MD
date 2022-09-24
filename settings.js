@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '💖'
+global.OWNER_REACT = '💫'
 global.REACT_NUMBER = '94771018371'
 
 //aumto functioner
@@ -50,7 +50,7 @@ global.botscript = 'https://github.com/Hiruu-Queen/Dark-Sihilel-MD.git' //script
 global.reactmoji = "📄" //ur menu react emoji
 global.themeemoji = "🧊" //ur theme emoji
 global.packname = "♥️S_I_H_I_L_E_L♥️" //ur sticker watermark packname
-global.author = "♥️HIRUU-QUEEN♥️" //ur sticker watermark author
+global.author = "♥️THUSHAN-BOT♥️" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/Sihilel.jpg") //ur thumb pic
